@@ -11,5 +11,6 @@ public class HelloWorld {
         System.out.println("hhhhawq");
         System.out.println("hotfix");
         System.out.println("push commit");
+        System.out.println("push commit2");
     }
 }
